@@ -1,0 +1,2 @@
+transformer,winding,v_reg,bandwidth,pt_ratio,ct_rating,r,x,bus,bus_node,delay,v_limit,max_tap_change,pt_phase,remote_pt_ratio
+m1_xfmr,2,122,3,60,300,0,0,temp,temp,15,0,16,1,60

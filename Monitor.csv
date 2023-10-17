@@ -1,0 +1,14 @@
+name,enabled,element,terminal,value,sequence,magnitude,pos_seq,residual,p_polar
+subvi,true,transformer.m1_xfmr,2,voltage_current,false,false,false,false,true
+subpq,true,transformer.m1_xfmr,1,powers,true,false,false,false,true
+feederpq,true,line.temp2,1,powers,true,false,false,false,true
+v_m1,true,line.temp2,2,voltage_current,false,false,false,true,true
+highestimpedancebus,true,line.0x008c87d8_0x008f1de0,2,voltage_current,false,false,false,false,true
+cap1,true,capacitor.cap1,1,powers,false,true,false,false,true
+cap2,true,capacitor.cap2,1,powers,false,true,false,false,true
+cap3,true,capacitor.cap3,1,powers,false,true,false,false,true
+tap1,true,transformer.m1_xfmr,2,tap_position,false,false,false,false,true
+voltagecap1,true,capacitor.cap1,1,voltage_current,false,false,false,false,true
+voltagecap2,true,capacitor.cap2,1,voltage_current,false,false,false,false,true
+voltagecap3,true,capacitor.cap3,1,voltage_current,false,false,false,false,true
+voltagetap1,true,transformer.m1_xfmr,2,voltage_current,false,false,false,false,true

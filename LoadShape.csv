@@ -1,0 +1,6 @@
+name,n_pts,interval,mean,std_dev,use_actual
+23,0,1,0,0,false
+26,0,1,0,0,false
+32,0,1,0,0,false
+36,0,1,0,0,false
+aggregated,0,1,0,0,false

@@ -1,0 +1,5 @@
+name,n_phases,n_conds,reduce,rho_earth,x_coords,heights,units,spacing,wires,cn_cables,ts_cables
+750a_qx3,3,4,true,100,[ 0 0.08 0 -0.08 ],[ 35 34.92 34.83 34.92 ],[ ft ft ft ft ],,[ 750A 750A 750A 750A ],[ ],[ ]
+500a_qx3,3,4,true,100,[ 0 0.068 0 -0.068 ],[ 35 34.932 34.864 34.932 ],[ ft ft ft ft ],,[ 500A 500A 500A 500A ],[ ],[ ]
+1/0a_qx3,3,4,true,100,[ 0 0.0307 0 -0.0307 ],[ 35 34.969 34.939 34.969 ],[ ft ft ft ft ],,[ 1/0A 1/0A 1/0A 1/0A ],[ ],[ ]
+340a_qx3,3,4,true,100,[ 0 0.0555 0 -0.0555 ],[ 35 34.94 34.889 34.94 ],[ ft ft ft ft ],,[ 340A 340A 340A 340A ],[ ],[ ]
