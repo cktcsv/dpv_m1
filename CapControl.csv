@@ -1,4 +1,4 @@
-element,terminal,control_type,pt_ratio,ct_ratio,off_setting,on_setting,delay,dead_time,ct_phase,pt_phase,pct_min_kvar
-line.temp2,1,kvar,60,60,-840,540,45,300,1,1,50
-line.temp2,1,kvar,60,60,-840,540,30,300,1,1,50
-line.temp2,1,kvar,60,60,-840,540,15,300,1,1,50
+capacitor,element,terminal,control_type,pt_ratio,ct_ratio,off_setting,on_setting,delay,dead_time,ct_phase,pt_phase,pct_min_kvar
+cap1,line.temp2,1,kvar,60,60,-840,540,45,300,1,1,50
+cap2,line.temp2,1,kvar,60,60,-840,540,30,300,1,1,50
+cap3,line.temp2,1,kvar,60,60,-840,540,15,300,1,1,50
